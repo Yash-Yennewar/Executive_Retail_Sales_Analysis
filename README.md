@@ -4,7 +4,7 @@
 An interactive Tableau dashboard analyzing Superstore retail sales to uncover insights on regional performance, profitability, and product-driven trends.
 
 ## 📌 Overview
-This project presents an **interactive Tableau dashboard** analyzing **Superstore Retail Sales data** across different dimensions such as **Region, City, Category, and Time**.  
+This project presents an **interactive Tableau dashboard** analyzing **Superstore Retail Sales data** across different dimensions such as **Region, City, Category, and Time**.
 
 The goal of this analysis is to provide executives with actionable insights on **sales performance, profitability, customer discounts, and regional growth patterns**.  
 
@@ -39,13 +39,17 @@ The dashboard helps in answering:
 
 ## 📈 Dashboard Insights
 ### 🔹 1. Executive Dashboard
-- **Overall Sales**: $1.34M YTD Sales, $175K Profit, 22K Units.  
+- **Overall Performance**:
+  - $1.34M YTD Sales.
+  - $175K YTD Profit.
+  - 22K YTD Units.
+  - 15.57% YTD Avg_Disc. 
 - **Regional Performance**:  
   - Central region achieved the target.  
   - East & West regions are underperforming.  
   - South is slightly below expectations.  
-- **Top Cities**: NYC and California cities perform strongly.  
-- **Category Analysis**: Chairs, Phones, and Copiers dominate sales.  
+- **Top Cities** : NYC and California cities perform strongly.  
+- **Category Analysis** : Chairs, Phones, and Copiers dominate sales.  
 
 ### 🔹 2. Data Story Highlights
 - **Central Region Achieved Target** → Central outperformed other regions with positive profit contribution.  
