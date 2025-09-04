@@ -3,6 +3,11 @@
 # **Executive Retail Sales Analytics Dashboard**
 An interactive Tableau dashboard analyzing Superstore retail sales to uncover insights on regional performance, profitability, and product-driven trends.
 
+## 📂 Project Link
+<a href ="https://public.tableau.com/views/Retail_Sales_Analysis_17569778546500/DataStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Executive Retail Sales Analytics</a>
+
+---
+
 ## 📌 Overview
 This project presents an **interactive Tableau dashboard** analyzing **Superstore Retail Sales data** across different dimensions such as **Region, City, Category, and Time**.
 
