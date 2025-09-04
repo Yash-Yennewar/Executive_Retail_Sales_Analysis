@@ -1,4 +1,4 @@
-# 💡 Power Bi Project by Yash Yennewar
+# 💡 Tableau Project by Yash Yennewar
 
 # **Executive Retail Sales Analytics Dashboard**
 An interactive Tableau dashboard analyzing Superstore retail sales to uncover insights on regional performance, profitability, and product-driven trends.
